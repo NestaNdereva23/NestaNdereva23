@@ -10,7 +10,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nestandereva23" alt="nestandereva23" /></a>
 </p>
 
-- 🔭 I’m currently working on **[Describe your current projects here]**
+- 🔭 I’m currently working on **WERA-A platform where clients can search for and book services from various providers, while service providers can list and offer their services.**
 
 - 🌱 I’m currently learning **HTMX, Django-Ninja**
 
